@@ -1,0 +1,10 @@
+~A V B
+~B V C
+A
+D V E
+D
+R
+R V P
+Q V ~Q
+S V S V S
+C

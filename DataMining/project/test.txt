@@ -1,0 +1,111 @@
+["ColorBelowRing=white""ColorAboveRing=white"]      --> ["CapSurf=smooth"]                                  support=0.20138, confidence=0.46477, lift=1.47724
+
+["VeilType=partial""GillAttached=free"              --> ["CapSurf=smooth"]                                  support=0.20138, confidence=0.46477, lift=1.47724
+"ColorBelowRing=white""ColorAboveRing=white"]                                                               
+
+["VeilType=partial""VeilColor=white"                --> ["CapSurf=smooth"]                                  support=0.20138, confidence=0.46477, lift=1.47724
+"ColorBelowRing=white""ColorAboveRing=white"]                                                               
+
+["GillAttached=free""ColorBelowRing=white"          --> ["CapSurf=smooth"]                                  support=0.20138, confidence=0.46477, lift=1.47724
+"ColorAboveRing=white"]                                                                                     
+
+["VeilColor=white""ColorBelowRing=white"            --> ["CapSurf=smooth"]                                  support=0.20138, confidence=0.46477, lift=1.47724
+"ColorAboveRing=white"]                                                                                     
+
+["VeilType=partial""ColorBelowRing=white"           --> ["CapSurf=smooth"]                                  support=0.20138, confidence=0.46477, lift=1.47724
+"ColorAboveRing=white"]                                                                                     
+
+["GillAttached=free""VeilColor=white"               --> ["CapSurf=smooth"]                                  support=0.20138, confidence=0.46477, lift=1.47724
+"ColorBelowRing=white""ColorAboveRing=white"]                                                               
+
+["GillAttached=free""VeilColor=white"               --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+"ColorBelowRing=white"]                                                                                     
+
+["GillAttached=free""ColorBelowRing=white"]         --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+
+["VeilType=partial""GillAttached=free"              --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+"VeilColor=white""ColorBelowRing=white"]                                                                    
+
+["VeilType=partial""ColorBelowRing=white"]          --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+
+["VeilColor=white""ColorBelowRing=white"]           --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+
+["VeilType=partial""GillAttached=free"              --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+"ColorBelowRing=white"]                                                                                     
+
+["VeilType=partial""VeilColor=white"                --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+"ColorBelowRing=white"]                                                                                     
+
+["ColorBelowRing=white"]                            --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42792, lift=1.36010
+
+["VeilType=partial""ColorAboveRing=white"]          --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+
+["VeilColor=white""ColorAboveRing=white"]           --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+
+["VeilType=partial""VeilColor=white"                --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+"ColorAboveRing=white"]                                                                                     
+
+["GillAttached=free""ColorAboveRing=white"]         --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+
+["VeilType=partial""GillAttached=free"              --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+"VeilColor=white""ColorAboveRing=white"]                                                                    
+
+["VeilType=partial""GillAttached=free"              --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+"ColorAboveRing=white"]                                                                                     
+
+["GillAttached=free""VeilColor=white"               --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+"ColorAboveRing=white"]                                                                                     
+
+["ColorAboveRing=white"]                            --> ["CapSurf=smooth"]                                  support=0.23092, confidence=0.42025, lift=1.33573
+
+["VeilType=partial""RingNumber=one"                 --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41889, lift=1.33141
+"VeilColor=white""ColorBelowRing=white"]                                                                    
+
+["GillAttached=free""RingNumber=one"                --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41889, lift=1.33141
+"ColorBelowRing=white"]                                                                                     
+
+["RingNumber=one""VeilColor=white"                  --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41889, lift=1.33141
+"ColorBelowRing=white"]                                                                                     
+
+["VeilType=partial""GillAttached=free"              --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41889, lift=1.33141
+"RingNumber=one""ColorBelowRing=white"]                                                                     
+
+["RingNumber=one""ColorBelowRing=white"]            --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41889, lift=1.33141
+
+["GillAttached=free""RingNumber=one"                --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41889, lift=1.33141
+"VeilColor=white""ColorBelowRing=white"]                                                                    
+
+["VeilType=partial""RingNumber=one"                 --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41889, lift=1.33141
+"ColorBelowRing=white"]                                                                                     
+
+["RingNumber=one""ColorAboveRing=white"]            --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41046, lift=1.30462
+
+["VeilType=partial""RingNumber=one"                 --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41046, lift=1.30462
+"GillAttached=free""ColorAboveRing=white"]                                                                  
+
+["VeilType=partial""RingNumber=one"                 --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41046, lift=1.30462
+"VeilColor=white""ColorAboveRing=white"]                                                                    
+
+["GillAttached=free""RingNumber=one"                --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41046, lift=1.30462
+"ColorAboveRing=white"]                                                                                     
+
+["GillAttached=free""RingNumber=one"                --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41046, lift=1.30462
+"VeilColor=white""ColorAboveRing=white"]                                                                    
+
+["RingNumber=one""VeilColor=white"                  --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41046, lift=1.30462
+"ColorAboveRing=white"]                                                                                     
+
+["VeilType=partial""RingNumber=one"                 --> ["CapSurf=smooth"]                                  support=0.20089, confidence=0.41046, lift=1.30462
+"ColorAboveRing=white"]                                                                                     
+
+["Bruises=no"]                                      --> ["CapSurf=smooth"]                                  support=0.20778, confidence=0.35552, lift=1.12998
+
+["Bruises=no""VeilType=partial"]                    --> ["CapSurf=smooth"]                                  support=0.20778, confidence=0.35552, lift=1.12998
+
+["SurfaceBelowRing=smooth"]                         --> ["CapSurf=smooth"]                                  support=0.21024, confidence=0.34603, lift=1.09982
+
+["VeilType=partial""SurfaceBelowRing=smooth"]       --> ["CapSurf=smooth"]                                  support=0.21024, confidence=0.34603, lift=1.09982
+
+["VeilType=partial""SurfaceAboveRing=smooth"]       --> ["CapSurf=smooth"]                                  support=0.21024, confidence=0.32998, lift=1.04882
+
+["SurfaceAboveRing=smooth"]                         --> ["CapSurf=smooth"]                                  support=0.21024, confidence=0.32998, lift=1.04882

@@ -1,0 +1,29 @@
+0036514970
+================
+
+=== UNARCHIVE AND STRUCTURE ===
+OK!
+
+=== COMPILE ===
+Skipping (python)
+
+=== EVALUATION ===
+
+== A-STAR ==
+  Passed 5 / 5 tests.
+
+== BFS ==
+  Passed 3 / 3 tests.
+
+== HEURISTIC-CONSISTENT ==
+  Passed 5 / 5 tests.
+
+== HEURISTIC-OPTIMISTIC ==
+  Passed 5 / 5 tests.
+
+== UCS ==
+  Passed 3 / 3 tests.
+
+=== TOTAL RESULTS ===
+21 / 21 tests passed. (100.0%)
+
